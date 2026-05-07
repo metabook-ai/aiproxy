@@ -6,10 +6,6 @@
 ## 访问接口
 https://metabook.ai/api/v1/aiproxy/v1/chat/completions
 
-## API Key
-在https://metabook.ai/profile中， 点击用户名旁边的密钥图标，查看API Token
-
-
 ## 计费标准
 
 ### gemini-3-flash
@@ -23,6 +19,13 @@ https://metabook.ai/api/v1/aiproxy/v1/chat/completions
 - 底座模型：Google Gemini 3.1 Pro
 - 输入(每1000 token): 10点（约人民币0.2元，会员另有折扣）
 - 输出(每1000 token): 45点（约人民币0.9元，会员另有折扣)
+
+
+## API Key
+在https://metabook.ai/profile中， 点击用户名旁边的密钥图标，查看API Token
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1a6f4189-1d0e-489d-a7ae-ca69259117f7" />
+
+
 
 ## 调用示例
 命令行
@@ -50,16 +53,16 @@ Metabook AI服务和OpenAI API兼容，任何支持OpenAI 5的客户端均可支
 下面以Chatbox(https://chatboxai.app/zh)配置示范
 
 ### 在Setting界面点击+Add，增加新的AI服务
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/4527c632-0bf4-464b-9a9c-29498863fb65" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4527c632-0bf4-464b-9a9c-29498863fb65" />
 
 
 ### 配置模型
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/12489063-bcf5-48fb-a779-e708fe847d4a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/12489063-bcf5-48fb-a779-e708fe847d4a" />
 
 
 ### 聊天界面选择刚才新建的metabook openai，并挑选一个模型
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/564f09ad-24a6-459f-a643-763a8082dca0" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/564f09ad-24a6-459f-a643-763a8082dca0" />
 
 
 ### 开始聊天
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/427146ae-f4e9-4370-9ce6-71a20b9ea37d" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/427146ae-f4e9-4370-9ce6-71a20b9ea37d" />
