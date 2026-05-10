@@ -4,7 +4,7 @@
 - 提供世界一线AI模型的访问服务，并通过多种技术手段在可能范围内尽量做到减少限制和审核，释放模型的全部潜力。
 
 ## 访问接口
-https://metabook.ai/api/v1/aiproxy/v1/chat/completions
+https://metabook.ai/api/v1/gateway/v1/chat/completions
 
 ## 计费标准
 
