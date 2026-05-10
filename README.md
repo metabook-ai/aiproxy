@@ -30,7 +30,7 @@ https://metabook.ai/api/v1/gateway/v1/chat/completions
 ## 调用示例
 命令行
 ```
-curl https://metabook.ai/api/v1/aiproxy/v1/chat/completions \
+curl https://metabook.ai/api/v1/gateway/v1/chat/completions \
   -H "Authorization: Bearer 替换为你在metabook的api_token" \
   -H "Content-Type: application/json" \
   -d '{
@@ -71,7 +71,7 @@ Metabook AI服务和OpenAI API兼容，任何支持OpenAI 5的客户端均可支
 Metabook AI服务也支持格式化输出(Structured Output)，其格式严格遵循OpenAI相关规范，如下所示，我们要求用Json数组输出三章故事大纲，每一章包括title/content
 
 ```
-curl https://metabook.ai/api/v1/aiproxy/v1/chat/completions \
+curl https://metabook.ai/api/v1/gateway/v1/chat/completions \
   -H "Authorization: Bearer 你的token" \
   -H "Content-Type: application/json" \
   -d '{
