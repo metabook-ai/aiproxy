@@ -8,17 +8,8 @@ https://metabook.ai/api/v1/gateway/v1/chat/completions
 
 ## 计费标准
 
-### gemini-3-flash
-### gemini-3-flash-jailbreak
-- 底座模型：Google Gemini 3.0 Flash
-- 输入(每1000 token): 1点（约人民币2分，会员另有折扣）
-- 输出(每1000 token): 3点（约人民币6分，会员另有折扣)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7cee0dfa-93ff-4d82-87c5-32e35af7b6a9" />
 
-### gemini-3-pro
-### gemini-3-pro-jailbreak
-- 底座模型：Google Gemini 3.1 Pro
-- 输入(每1000 token): 10点（约人民币0.2元，会员另有折扣）
-- 输出(每1000 token): 45点（约人民币0.9元，会员另有折扣)
 
 
 ## API Key
@@ -53,11 +44,11 @@ Metabook AI服务和OpenAI API兼容，任何支持OpenAI 5的客户端均可支
 下面以Chatbox(https://chatboxai.app/zh)配置示范
 
 ### 在Setting界面点击+Add，增加新的AI服务
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/4527c632-0bf4-464b-9a9c-29498863fb65" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/419bcf39-a300-4ea1-b21e-786a272b79c5" />
 
 
 ### 配置模型
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/12489063-bcf5-48fb-a779-e708fe847d4a" />
+<img width="437" height="452" alt="image" src="https://github.com/user-attachments/assets/af49fe72-2e15-4170-a5df-12fc67cd4a1b" />
 
 
 ### 聊天界面选择刚才新建的metabook openai，并挑选一个模型
